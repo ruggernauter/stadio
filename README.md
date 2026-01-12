@@ -13,6 +13,7 @@
 vittoria forza: https://raw.githubusercontent.com/ruggernauter/stadio/main/vittoria%20Forza.wav
 vittoria velocità: https://raw.githubusercontent.com/ruggernauter/stadio/main/vittoria%20Velocità.wav
 vittoria tecnica: https://raw.githubusercontent.com/ruggernauter/stadio/main/vittoria%20Tecnica.wav
+esito 0 (mischia): https://raw.githubusercontent.com/ruggernauter/stadio/main/esito%200.wav
 
 soundtrack: https://raw.githubusercontent.com/ruggernauter/stadio/main/soundtrack.ogg
 
