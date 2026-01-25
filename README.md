@@ -24,3 +24,5 @@ https://raw.githubusercontent.com/ruggernauter/stadio/main/You%20May%20Award%20T
 https://raw.githubusercontent.com/ruggernauter/stadio/main/no%20try%20tmo.wav
 
 arbitro "Come on, move!": https://raw.githubusercontent.com/ruggernauter/stadio/main/Come%20on%2C%20move.wav
+
+trumpet: https://raw.githubusercontent.com/ruggernauter/stadio/main/Trumpet.wav
